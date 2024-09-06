@@ -1,0 +1,11 @@
+langchain
+langchain-community
+python-dotenv
+streamlit==1.38.0
+langchain_google_genai
+faiss-cpu
+protobuf
+InstructorEmbedding
+torch
+tiktoken
+sentence-transformers==2.2.2

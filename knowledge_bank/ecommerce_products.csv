@@ -1,0 +1,52 @@
+product_sku,product_name,product_description,product_brand,product_color_variants,product_size_variants,other_variants,product_price,qty_in_stock
+MCL001,Men's Casual Shirt,"A stylish casual shirt for men, made of high-quality cotton.",BrandX,"Red, Blue, White","S, M, L, XL",Slim Fit,29.99,150
+MCL002,Men's Formal Shirt,"Perfect for office wear or formal occasions, premium fabric.",BrandY,"Black, Navy","M, L, XL, XXL",Regular Fit,39.99,100
+WCL001,Women's Summer Dress,"Elegant summer dress with floral prints, ideal for sunny days.",BrandZ,"Yellow, Pink, Blue","XS, S, M, L","Sleeveless, V-neck",49.99,80
+WCL002,Women's Denim Jacket,Classic denim jacket with button front and pockets.,BrandX,"Blue, Black","S, M, L","Distressed, Fitted",59.99,50
+FW001,Men's Running Shoes,Lightweight running shoes with excellent grip and comfort.,BrandA,"Black, Grey, White","8, 9, 10, 11","Wide, Regular",79.99,200
+FW002,Women's Sandals,Comfortable sandals for casual wear with cushioned soles.,BrandB,"Brown, Tan, White","6, 7, 8, 9","Flat, Heeled",29.99,120
+ACC001,Leather Wallet,Premium leather wallet with multiple card slots.,BrandC,"Black, Brown",One Size,"Bifold, Trifold",19.99,300
+ACC002,Men's Leather Belt,Classic leather belt with adjustable buckle.,BrandY,"Black, Brown","M, L, XL","Casual, Formal",24.99,250
+WCL003,Women's Knit Sweater,"Soft knit sweater, perfect for winter layering.",BrandZ,"Grey, Beige, Burgundy","S, M, L, XL","Crewneck, Turtleneck",69.99,70
+FW003,Men's Hiking Boots,Durable hiking boots with water-resistant exterior.,BrandA,"Brown, Green","8, 9, 10, 11, 12","Waterproof, High Ankle",89.99,90
+MCL003,Men's Polo Shirt,"A comfortable polo shirt, perfect for casual wear.",BrandZ,"Green, Navy, White","S, M, L, XL",Regular Fit,34.99,120
+MCL004,Men's Hoodie,"A cozy hoodie for all seasons, made with soft fleece.",BrandA,"Grey, Black, Blue","S, M, L, XL",Pullover,49.99,130
+WCL004,Women's Maxi Skirt,"Flowy maxi skirt with a flattering silhouette.",BrandB,"Black, Red, Green","XS, S, M, L",High Waist,39.99,95
+WCL005,Women's Blouse,"Elegant blouse with lace detailing and long sleeves.",BrandX,"White, Pink, Lavender","S, M, L",Button-Up,29.99,85
+FW004,Men's Loafers,"Comfortable slip-on loafers with cushioned insole.",BrandC,"Brown, Tan, Black","8, 9, 10, 11",Moc-Toe,64.99,110
+FW005,Women's Heels,"Stylish heels perfect for formal events.",BrandB,"Black, Nude, Red","6, 7, 8, 9",Pointed Toe,59.99,75
+ACC003,Women's Scarf,"Soft scarf made from high-quality wool.",BrandY,"Red, Grey, White",One Size,Knitted,19.99,250
+ACC004,Sunglasses,"Stylish sunglasses with UV protection.",BrandX,"Black, Brown",One Size,Aviator,14.99,300
+MCL005,Men's Sweatpants,"Comfortable sweatpants for casual wear or workouts.",BrandA,"Grey, Black, Navy","S, M, L, XL",Tapered,29.99,180
+WCL006,Women's Cardigan,"Cozy cardigan with pockets, great for layering.",BrandZ,"Beige, Maroon, Navy","S, M, L",Open Front,49.99,60
+FW006,Women's Ballet Flats,"Classic ballet flats with cushioned footbed.",BrandC,"Black, Beige, Pink","6, 7, 8, 9",Round Toe,34.99,140
+FW007,Men's Dress Shoes,"Elegant leather dress shoes for formal occasions.",BrandB,"Black, Brown","8, 9, 10, 11",Oxford,89.99,85
+ACC005,Men's Watch,"Stylish watch with leather strap and stainless steel casing.",BrandY,"Black, Brown",One Size,Analog,99.99,45
+ACC006,Women's Handbag,"Spacious handbag with multiple compartments.",BrandZ,"Black, Brown, Tan",One Size,Tote,49.99,70
+WCL007,Women's Leggings,"Comfortable leggings for workouts or casual wear.",BrandA,"Black, Grey","S, M, L, XL",High Waist,24.99,160
+MCL006,Men's Bomber Jacket,"Classic bomber jacket with ribbed cuffs and hem.",BrandB,"Black, Green, Navy","S, M, L, XL",Zippered,79.99,55
+FW008,Women's Ankle Boots,"Stylish ankle boots with a block heel.",BrandC,"Black, Tan, Grey","6, 7, 8, 9",Zip-Up,74.99,90
+FW009,Men's Slip-On Sneakers,"Easy slip-on sneakers with breathable fabric.",BrandA,"Black, Blue, White","8, 9, 10, 11",Casual,59.99,180
+ACC007,Leather Gloves,"High-quality leather gloves with soft lining.",BrandB,"Black, Brown","M, L, XL",Winter,29.99,100
+ACC008,Beanie Hat,"Warm beanie hat made from wool-blend fabric.",BrandC,"Grey, Black, Red",One Size,Knitted,14.99,220
+MCL007,Men's Chinos,"Comfortable cotton chinos, ideal for casual or semi-formal wear.",BrandD,"Khaki, Navy, Black","S, M, L, XL",Slim Fit,44.99,100
+MCL008,Men's Graphic T-Shirt,"Trendy graphic t-shirt with bold prints.",BrandE,"Black, White, Grey","S, M, L, XL",Crewneck,19.99,200
+WCL008,Women's Turtleneck Sweater,"Warm and cozy turtleneck sweater for chilly days.",BrandF,"Black, Beige, Grey","S, M, L",Fitted,49.99,80
+WCL009,Women's Pajama Set,"Soft cotton pajama set for a comfortable night's sleep.",BrandG,"Pink, Blue, Grey","S, M, L",Button-Up,29.99,120
+FW010,Men's Casual Sneakers,"Lightweight casual sneakers for everyday wear.",BrandH,"Black, White, Blue","8, 9, 10, 11, 12",Low-Top,49.99,150
+FW011,Women's Running Shoes,"High-performance running shoes with cushioned support.",BrandI,"Grey, Pink, White","6, 7, 8, 9",Lace-Up,89.99,90
+ACC009,Men's Wool Scarf,"Warm wool scarf, perfect for winter.",BrandJ,"Navy, Black, Grey",One Size,Knitted,24.99,130
+ACC010,Women's Leather Gloves,"Stylish leather gloves with touchscreen compatibility.",BrandK,"Black, Brown","S, M, L",Winter,34.99,95
+MCL009,Men's Flannel Shirt,"Classic flannel shirt with button closure.",BrandL,"Red, Blue, Green","M, L, XL, XXL",Regular Fit,39.99,150
+WCL010,Women's Puffer Jacket,"Water-resistant puffer jacket with hood.",BrandM,"Black, Red, Green","S, M, L",Zippered,89.99,60
+FW012,Men's Dress Boots,"Elegant leather boots for formal and semi-formal occasions.",BrandN,"Black, Brown","9, 10, 11, 12",Lace-Up,99.99,70
+FW013,Women's Platform Sandals,"Trendy platform sandals with adjustable straps.",BrandO,"Black, White, Red","6, 7, 8, 9",Platform,64.99,85
+ACC011,Men's Duffel Bag,"Durable duffel bag with multiple compartments.",BrandP,"Black, Navy",One Size,Sports,49.99,50
+ACC012,Women's Sunglasses,"Chic sunglasses with UV400 protection.",BrandQ,"Black, Brown",One Size,Cat-Eye,24.99,200
+MCL010,Men's Rain Jacket,"Lightweight rain jacket with adjustable hood.",BrandR,"Yellow, Green, Blue","M, L, XL",Waterproof,69.99,90
+WCL011,Women's Trench Coat,"Classic trench coat with belted waist.",BrandS,"Beige, Black, Navy","S, M, L",Double-Breasted,99.99,55
+FW014,Men's Leather Slippers,"Comfortable leather slippers with padded insole.",BrandT,"Brown, Black","9, 10, 11, 12",Slip-On,44.99,80
+FW015,Women's Wedge Heels,"Stylish wedge heels perfect for casual wear.",BrandU,"Black, Beige, Red","6, 7, 8, 9",Wedge,59.99,95
+ACC013,Men's Baseball Cap,"Classic baseball cap with adjustable strap.",BrandV,"Black, Navy, White",One Size,Snapback,14.99,250
+ACC014,Women's Crossbody Bag,"Trendy crossbody bag with adjustable strap.",BrandW,"Black, Tan, Red",One Size,Leather,39.99,150
+
